@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aar
+*.log
+*.tmp
+scratch_*.txt
+/scratch/
+test_*.log
+install.log
+
+# Large unbundled translation models (~230 MB INT8, deferred delivery per Phase 9/12)
+app/src/main/assets/*_quantized.onnx

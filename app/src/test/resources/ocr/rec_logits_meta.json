@@ -1,0 +1,9 @@
+{
+ "logits_shape": [
+  1,
+  41,
+  97
+ ],
+ "text": "Press E to open",
+ "score": 0.9371398314833641
+}

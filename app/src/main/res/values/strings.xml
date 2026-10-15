@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game Translator En-Ar</string>
+    <string name="title_permission_overlay">System Overlay Permission</string>
+    <string name="title_permission_capture">Screen Capture Permission</string>
+    <string name="btn_grant_overlay">Grant Overlay Permission</string>
+    <string name="btn_start_translation">Start Translation Mode</string>
+    <string name="btn_stop_translation">Stop Translation Mode</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_capturing">Status: Capturing &amp; Translating</string>
+    <string name="status_error">Status: Error</string>
+</resources>
